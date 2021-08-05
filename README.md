@@ -1,4 +1,5 @@
-# Community Classroom is OP
+# **About**
+We believe that every student, irrespective of their college or branch, can make it big. Community Classrooom is an initiative built on this thought. We provide FREE hands-on training, mentorship and have an inclusive community.
 
-- Kunal Kushwaha says that this community is amazing.
-- Kunal made this change
+### Important links
+[LinkedIn](https://www.linkedin.com/company/commclassroom/)
