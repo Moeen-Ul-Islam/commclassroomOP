@@ -5,4 +5,4 @@ We believe that every student, irrespective of their college or branch, can make
 
 ### Important links
 [LinkedIn](https://www.linkedin.com/company/commclassroom/)
-![alt LinkedIn](./linked.png)
+![alt LinkedIn](./linkedin.png)
